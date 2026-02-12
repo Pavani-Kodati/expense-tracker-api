@@ -100,3 +100,14 @@ src/
 │   └── DataLoader.java
 └── test/              # JUnit + Mockito tests
 ```
+## API Demonstration
+
+### 1. Server Initialization
+When the application starts, it successfully initializes the OpenJDK runtime and sets up the local network server.
+
+### 2. Testing with Postman
+I used Postman to verify the REST endpoints. The following screenshots show the API returning a `200 OK` status and the JSON data for the expenses, including newly added items.
+
+![Postman GET Request](image_6c7b3e.jpg)
+
+![Postman API Verification](image_6cd139.jpg)
