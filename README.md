@@ -108,6 +108,6 @@ When the application starts, it successfully initializes the OpenJDK runtime and
 ### 2. Testing with Postman
 I used Postman to verify the REST endpoints. The following screenshots show the API returning a `200 OK` status and the JSON data for the expenses, including newly added items.
 
-![Postman GET Request](image_6c7b3e.jpg)
+![Postman GET Request](postman-get-request.jpg)
 
-![Postman API Verification](image_6cd139.jpg)
+![Postman API Verification](api-verification.jpg)
